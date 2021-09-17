@@ -17,7 +17,7 @@ The main purpose of this network is to expose a load-balanced and monitored inst
 Load balancing ensures that the application will be highly reliable , in addition to restricting traffic to the network.
 	•	TODO: Load balancers can defend an organization against denial-of-service (DDos) attacks. The advantage of having a jump-box is being able to use a virtual machine that has hardened security and can manage other systems within your security zone or overall network
 
-Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the _____ and system _____.
+Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the logs and system traffic.
 	•	TODO: Filebeat monitors the log files or locations that you specify
 	•	TODO: Metricbeat records the metrics and statistics from the operation system and from services running on the server.
 The configuration details of each machine may be found below. Note: Use the Markdown Table Generator to add/remove values from the table.
